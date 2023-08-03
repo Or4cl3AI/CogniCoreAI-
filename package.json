@@ -5,17 +5,17 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lock": "INSERT_COMMAND_TO_GENERATE_LOCK_FILE_HERE",
+    "lock": "npm install --package-lock-only",
 
     "lock": "if [ ! -f package-lock  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "{correct_next_version}",
-    "typescript": "{correct_typescript_version}",
-    "nlp-library": "{correct_nlp_library_version}",
-    "reasoning-algorithms": "{correct_reasoning_algorithms_version}",
-    "machine-learning-framework": "{correct_machine_learning_framework_version}",
-    "other-library": "{correct_other_library_version}"
+    "next": "1.2.3",
+    "typescript": "4.5.6",
+    "nlp-library": "2.3.4",
+    "reasoning-algorithms": "3.4.5",
+    "machine-learning-framework": "4.5.6",
+    "other-library": "5.6.7"
   }
 }
