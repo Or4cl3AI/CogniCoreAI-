@@ -10,6 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "next": "{next_version}",
-    "typescript": "{typescript_version}"
+    "typescript": "{typescript_version}",
+    "nlp-library": "{nlp_library_version}",
+    "reasoning-algorithms": "{reasoning_algorithms_version}",
+    "machine-learning-framework": "{machine_learning_framework_version}",
+    "other-library": "{other_library_version}"
   }
 }
