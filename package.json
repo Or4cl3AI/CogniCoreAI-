@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lock": "if [ ! -f package-lock.json ] && [ ! -f npm-shrinkwrap.json ] && [ ! -f yarn.lock ]; then npm install; fi"
-  },
+
+    "lock": "if [ ! -f package-lock  },
   "author": "",
   "license": "ISC",
   "dependencies": {
