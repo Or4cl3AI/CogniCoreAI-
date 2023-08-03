@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "lock": "INSERT_COMMAND_TO_GENERATE_LOCK_FILE_HERE",
 
     "lock": "if [ ! -f package-lock  },
   "author": "",
