@@ -11,11 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "{next_version}",
-    "typescript": "{typescript_version}",
-    "nlp-library": "{nlp_library_version}",
-    "reasoning-algorithms": "{reasoning_algorithms_version}",
-    "machine-learning-framework": "{machine_learning_framework_version}",
-    "other-library": "{other_library_version}"
+    "next": "{correct_next_version}",
+    "typescript": "{correct_typescript_version}",
+    "nlp-library": "{correct_nlp_library_version}",
+    "reasoning-algorithms": "{correct_reasoning_algorithms_version}",
+    "machine-learning-framework": "{correct_machine_learning_framework_version}",
+    "other-library": "{correct_other_library_version}"
   }
 }
